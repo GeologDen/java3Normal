@@ -1,5 +1,6 @@
 package lesson1;
 
+
 public abstract class Fruit {
     private float weight;
 
